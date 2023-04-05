@@ -12,7 +12,7 @@
 
 $`pkg install nodejs-lts`
 
-$`git clone https://github.com/princekrvert/Temp-mail.git`
+$`git clone https://github.com/Yadav210012/Temp-Mail`
 
 $`cd Temp-mail`
 
